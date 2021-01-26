@@ -1,5 +1,5 @@
 # Discord Vaxe Bot 
-Eskiden bir hevele açmıştım üzerinden baya geçti şuan bile halen kullanıldığını gördüm teşekkür ederim.Her indiren bir star verirse harika şeyler olur.
+Eskiden bir hevesle açmıştım üzerinden baya geçti şuan bile halen kullanıldığını gördüm teşekkür ederim.Her indiren bir star verirse harika şeyler olur.
 
 Kurulum
 1. Kurulum için gereken programlar:
